@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.4)
+project(formatter_ex_lib)
+add_library(formatter STATIC ~/workspace/projects/lab03/formatter_lib/formatter.cpp)
+target_include_directories(formatter PUBLIC ~/workspace/projects/lab03/formatter_lib)
+add_library(formatter_ex STATIC formatter_ex.h formatter_ex.cpp)
+target_link_libraries(formatter_ex formatter)
