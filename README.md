@@ -266,7 +266,7 @@ $ touch CMakeLists.txt
 ```
 В содержимое файла добавляем следующее:
 ``` sh
-$ cat << CMakeLists.txt << EOF
+$ cat >> CMakeLists.txt << EOF
 cmake_minimum_required(VERSION 3.4)
 project(hello_world_application)
 add_library(formatter STATIC ~/workspace/projects/lab03/formatter_lib/formatter.cpp)
