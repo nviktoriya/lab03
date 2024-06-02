@@ -1,3 +1,0 @@
-[ 50%] Building CXX object CMakeFiles/formatter.dir/formatter.cpp.o
-[100%] Linking CXX static library libformatter.a
-[100%] Built target formatter
