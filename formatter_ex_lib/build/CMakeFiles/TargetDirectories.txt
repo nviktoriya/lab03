@@ -1,0 +1,4 @@
+/home/viktoriya/workspace/projects/lab03/formatter_ex_lib/build/CMakeFiles/formatter.dir
+/home/viktoriya/workspace/projects/lab03/formatter_ex_lib/build/CMakeFiles/formatter_ex.dir
+/home/viktoriya/workspace/projects/lab03/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/viktoriya/workspace/projects/lab03/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
