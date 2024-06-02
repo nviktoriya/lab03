@@ -1,4 +1,4 @@
-[result.txt](https://github.com/user-attachments/files/15526444/result.txt)## Laboratory work III
+## Laboratory work III
 
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
 
